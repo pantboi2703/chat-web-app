@@ -4,7 +4,7 @@ Chatty - Real-Time Messaging Application.
 
 # Project Description 
 
-Chatty is a real-time messaging application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) combined with Socket.iofor real-time communication. The application is styled using Tailwind CSS and Daisy UI, providing a modern and responsive user interface.
+Chatty is a real-time messaging application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) combined with Socket.io for real-time communication. The application is styled using Tailwind CSS and Daisy UI, providing a modern and responsive user interface.
 
 # Key Features 
 
